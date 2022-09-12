@@ -1,2 +1,2 @@
 ## Image_Segmentation
-### Extracting region of interest from morula images through Image segmentation using U-net model in pytorch
+Creating mask for morula images for extracting region of interest through image segmentation using unet model in pytorch.
