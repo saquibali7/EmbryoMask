@@ -1,2 +1,2 @@
 ## Image_Segmentation
-### Image segmentation of morula images  using U-net model in pytorch
+### Extracting region of interest from morula images through Image segmentation using U-net model in pytorch
